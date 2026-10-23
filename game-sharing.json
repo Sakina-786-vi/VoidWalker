@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 2,
+  "title": "GLITCHVERSE — The World Is Broken",
+  "description": "Cross the Sabotaged Future and Forgotten Fantasy in an atmospheric 2.5D platformer. Shift dimensions, reverse gravity and restore a broken multiverse.",
+  "assets": {
+    "og": "assets/share/og.png",
+    "favicon": "assets/share/favicon.png"
+  }
+}

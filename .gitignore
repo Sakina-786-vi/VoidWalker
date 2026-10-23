@@ -1,0 +1,10 @@
+node_modules/
+dist/
+shots/
+/.manus-webdev/preview-identity.json
+# Assets restored from assets.lock.json
+/assets/models/glitchverse-traveler-animated.glb
+/assets/models/glitchverse-traveler-rig.glb
+/assets/models/glitchverse-traveler.glb
+/assets/share/favicon.png
+/assets/share/og.png

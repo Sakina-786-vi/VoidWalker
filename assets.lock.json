@@ -1,0 +1,51 @@
+{
+  "version": 2,
+  "groups": {
+    "sharing-art": {
+      "name": "Sharing Art",
+      "order": 20
+    },
+    "traveler": {
+      "name": "Traveler",
+      "order": 10
+    }
+  },
+  "bundles": {},
+  "assets": {
+    "assets/models/glitchverse-traveler-animated.glb": {
+      "path": "/manus-storage/game/sha256/cf0eed1c240a8fdf71ba40425828f5d44fd7ae3d400b57474f7eeed26458ceb0.glb",
+      "sha256": "sha256:cf0eed1c240a8fdf71ba40425828f5d44fd7ae3d400b57474f7eeed26458ceb0",
+      "size": 1222964,
+      "assetType": "model",
+      "groupId": "traveler"
+    },
+    "assets/models/glitchverse-traveler-rig.glb": {
+      "path": "/manus-storage/game/sha256/93abcaa25e3164c87ff047014dcb441159b32a8853358eceddec2aa02a50d630.glb",
+      "sha256": "sha256:93abcaa25e3164c87ff047014dcb441159b32a8853358eceddec2aa02a50d630",
+      "size": 968084,
+      "assetType": "model",
+      "groupId": "traveler"
+    },
+    "assets/models/glitchverse-traveler.glb": {
+      "path": "/manus-storage/game/sha256/cde57acd0e415bcdac1c9bc08139a5c1d120b90852d561e27d627b730047d9a5.glb",
+      "sha256": "sha256:cde57acd0e415bcdac1c9bc08139a5c1d120b90852d561e27d627b730047d9a5",
+      "size": 910888,
+      "assetType": "model",
+      "groupId": "traveler"
+    },
+    "assets/share/favicon.png": {
+      "path": "/manus-storage/game/sha256/ceb3f0315a417f1cd58e0c24c4f3b95b15ec76940ac94d3c8cfb4f2ecfa7265b.png",
+      "sha256": "sha256:ceb3f0315a417f1cd58e0c24c4f3b95b15ec76940ac94d3c8cfb4f2ecfa7265b",
+      "size": 18864,
+      "assetType": "image",
+      "groupId": "sharing-art"
+    },
+    "assets/share/og.png": {
+      "path": "/manus-storage/game/sha256/2da26dfe120afdda59f669331c58db5728471eb09ade7f77e8f0ec0b75a57009.png",
+      "sha256": "sha256:2da26dfe120afdda59f669331c58db5728471eb09ade7f77e8f0ec0b75a57009",
+      "size": 1223645,
+      "assetType": "image",
+      "groupId": "sharing-art"
+    }
+  }
+}
