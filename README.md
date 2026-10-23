@@ -1,4 +1,4 @@
-# GLITCHVERSE — The World Is Broken
+# VoidWalker — The World Is Broken
 
 A playable 2.5D multiverse puzzle-platformer built on the starter's Three.js, Rapier and Vite architecture. Cross the **Sabotaged Future** and **Forgotten Fantasy** by switching dimensions at stable anchor platforms, collecting memory shards, reversing gravity and freezing moving energy hazards.
 
